@@ -8,7 +8,17 @@
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pointingRickyTest/npmtestpack"
+  },
+  "keywords": [
+    "npmtestpackricky",
+    "npmtestpack",
+    "button",
+    "reacthook",
+    "custombutton"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
